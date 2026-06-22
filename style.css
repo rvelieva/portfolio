@@ -190,7 +190,7 @@ border-radius: 20px;
   font-size: 50px;
  }
  .photo-of-me{
-  height: 400px;
+  height: 300px;
  }
 
  .info{
@@ -219,8 +219,8 @@ border-radius: 20px;
 
 }
 .project-img{
-    height: 150px;
-    width: 100px;
+    height: 120px;
+    width: 70px;
      
 }
 .project-button{
@@ -228,22 +228,22 @@ border-radius: 20px;
     color: #fff6ea;
     border-radius: 20px;
     font-size: 20px;
-    padding: 0px;
+    padding: 10px;
     margin-top: 30px;
      text-align: center;
 }
 .project-btn-txt{
    text-align: center;
-  font-size: 20px;
+  font-size: 15px;
    margin: 0px;
 }
 .contact{
    
-  font-size: 30px;
+  font-size: 20px;
 }
 .overthink{
     
-  font-size: 50px;
+  font-size: 40px;
 }
 .contact>img{
         height: 150px;
